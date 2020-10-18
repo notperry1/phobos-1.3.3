@@ -1,2 +1,3 @@
-# phobos-1.3.3-leaked
-yeah. shared on github once but got deleted
+# 3arthh4ck
+Phobos with a custom base.
+Make sure to download it (or at least clone it) cause the last leak got deleted
