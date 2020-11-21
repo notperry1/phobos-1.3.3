@@ -1,1 +1,1 @@
-Phobos 1.3.3 Image Optimized uploaded on here sense original github page author removed it cause he thinks it token logged someone but from my checking its safe so im just forking it and uploading this.
+Phobos 1.3.3 Image Optimized uploaded on here sense original github page author removed it cause he thinks it token logged someone but from my checking its safe so im just forking it and uploading this. Also please don't make retarded issues its annoying to deal with.
