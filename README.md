@@ -1,3 +1,1 @@
-Phobos with a custom base.
-phobos 1.5.3 is the only phobos release that token logs so this is safe (i think)
-will delete if this crack is proven to be unsafe (because i didnt make this)
+Phobos 1.3.3 Image Optimized uploaded on here sense original github page author removed it cause he thinks it token logged someone but from my checking its safe so im just forking it and uploading this.
